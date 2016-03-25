@@ -6,7 +6,7 @@ def send_email():
 
     sender = 'maze.arduino@gmail.com'
     passwd = '123Soleil!,'
-    receiver = 'julie.hamadou@gmail.com'
+    receiver = 't.mazaleyrat@gmail.com'
 
     msg = MIMEMultipart()
     msg['From'] = sender
